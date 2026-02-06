@@ -14,7 +14,7 @@ public class SingletonBestApproach {
     }
 }
 
-class Test{
+class TestSingletonBest{
     public static void main(String[] args){
         SingletonBestApproach s1 = SingletonBestApproach.getObject();
         SingletonBestApproach s2 = SingletonBestApproach.getObject();

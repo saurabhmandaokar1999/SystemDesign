@@ -21,7 +21,7 @@ public class SingletonEmployee{
     }
 }
 
-class test{
+class TestSingleton{
     public static void main(String[] args) {
         //not visible ctor
         //SingletonEmployee e = new SingletonEmployee(1,"saurabh",10,1000);
